@@ -1,0 +1,107 @@
+
+.main-background {
+  background-color: rgb(255,92,51);
+margin-top: 15px;
+margin-bottom: 35px;
+padding-top: 25px;
+padding-bottom: 25px;
+}
+
+.logo-size{width: 5%;
+  margin-left: 40px;
+}
+
+.white-color{color: white;}
+
+div a{
+  color: brown;
+}
+
+.nav-bar-item{
+  color: rgb(255,92,51);
+  display: inline;
+  border: solid 1px white;
+font-family: sans-serif;
+margin: 20px;
+ width: 150px;
+ height: 150px;
+ line-height: 30px;
+}
+
+ .shopping-cart{
+  color: rgb(255,92,51);
+  display: inline;
+  border: solid 1px white;
+font-family: sans-serif;
+ width: 150px;
+ height: 150px;
+ line-height: 30px;
+}
+
+.body-image{
+  width: 50%;
+  margin: 1% 25%
+
+}
+
+.body-text1{
+  color: white;
+  font-family: monospace;
+  margin-left: 25%;
+  margin-top: 150px;
+}
+
+.body-text2{
+  color: white;
+  font-family: monospace;
+  margin-left: 25%;
+  margin-top: 35px;
+  font-size: 30px;
+}
+
+.body-text3{
+  color: white;
+  font-family: monospace;
+  margin-left: 25%;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.body-content{
+    display: inline;
+    margin-left: 25%;
+    line-height: 50px;
+    color: white;
+  }
+
+.buy-now{
+  border: solid 10px white;
+  color: rgb(255,92,51);
+  background-color: white;
+}
+
+.body-text4{
+  margin-left: 25%;
+  font-family: monospace;
+}
+
+.background-color3{
+  background-color: rgb(255, 154, 128);
+  padding-bottom: 30px;
+  display: inline-block;;
+  text-align: center;
+  width: 100%;
+}
+
+.bottom-text1{
+  color: white;
+  font-size: 25px;
+  margin-left: 30%;
+  font-family: monospace;
+}
+
+.bottom-image{
+  width: 50%;
+  height: 50%;
+  margin-top: : 5%;
+  margin-left: 30%;
